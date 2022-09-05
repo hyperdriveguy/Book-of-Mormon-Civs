@@ -1,0 +1,34 @@
+[
+    {
+    "name": "Church",
+    "replaces": "Monument",
+    "uniqueTo": "Nephites",
+    "faith": 2,
+    "culture": 1,
+    "happiness": 1,
+    "hurryCostModifier": 20,
+    },
+    {
+    "name": "Rameumptom",
+    "replaces": "Monument",
+    "uniqueTo": "Nephites",
+    "maintenance": 1,
+    "culture": 4,
+    "hurryCostModifier": 5,
+    "cannotBeBuiltWith": "Church",
+    "isNationalWonder": true,
+    "cityHealth": -2,
+    "cityStrength": -1
+    },
+    {
+    "name": "Chief Court",
+    "isNationalWonder": true,
+    "production": 3,
+    "science": 3,
+    "gold": 3,
+    "culture": 1,
+    "cityStrength": 2,
+    "cost": 1,
+    "uniques": ["Indicates the capital city", "[+2 Culture] in all cities connected to capital"]
+
+]
