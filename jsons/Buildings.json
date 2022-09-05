@@ -6,7 +6,7 @@
     "faith": 2,
     "culture": 1,
     "happiness": 1,
-    "hurryCostModifier": 20,
+    "hurryCostModifier": 20
     },
     {
     "name": "Rameumptom",
@@ -30,5 +30,6 @@
     "cityStrength": 2,
     "cost": 1,
     "uniques": ["Indicates the capital city", "[+2 Culture] in all cities connected to capital"]
+    }
 
 ]
